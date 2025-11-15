@@ -62,8 +62,7 @@
               "RelativeToolTip": "Harmic\\Views\\Shared\\Components\\Product\\Default.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-11T04:03:40.206Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-11T04:03:40.206Z"
             },
             {
               "$type": "Document",
@@ -136,8 +135,7 @@
               "RelativeToolTip": "Harmic\\Areas\\Admin\\Views\\Menus\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-11T03:27:04.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-11T03:27:04.833Z"
             },
             {
               "$type": "Document",
@@ -149,8 +147,7 @@
               "RelativeToolTip": "Harmic\\Areas\\Admin\\Controllers\\ProductsController.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T03:22:38.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-11T03:22:38.97Z"
             }
           ]
         }
