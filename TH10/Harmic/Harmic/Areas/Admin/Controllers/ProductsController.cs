@@ -23,7 +23,6 @@ namespace Harmic.Areas.Admin.Controllers
         public async Task<IActionResult> Index()
         {
             var harmicContext = _context.TbProducts.Include(t => t.CategoryProduct);
-            ViewData["CategoryProductId"] = new SelectList(_context.TbProductCategories, "CategoryProductId", "Title");
             return View(await harmicContext.ToListAsync());
         }
 
